@@ -1,0 +1,10 @@
+Primer bulge
+Step 1.  Confirm that the hammer resets when you manually pull the bolt back.
+Step 2.  Make sure the bolt carrier slides through the upper receiver reasonably smoothly through its range and does not hang up.
+Step 3. Make sure your FCG is working correctly without any binding.
+Step 4.  Like Mussy says make sure your lower bolt is contacting the top of the barrel assuming you are using a glock barrel.  The top of the glock barrel will protrude about .5mm more than the bottom bottom part of the barrel.  You should hear metal on metal contact when you release the bolt.
+Step 5.  Make sure that the firing pin is able to fully retract at least 1 mm below the bolt face and extend at least 2mm beyond the bolt face as the hammer strikes it.
+Step 6.  Make sure the steel nub on the bottom of the lower bolt is not contacting or being obstructed by the magazine 'lips' and is low enough to easily push a round through the magazine and into the feed ramp.
+Based on the primer strike photo, I would make the tip of that firing pin a bit smaller and more spherical.
+If you are using a collar stop on your firing pin, keep a close eye on it that it doesnt slip on the shaft of the firing pin.  If the hole through the lower bolt for the firing pin is too large the firing pin can also bend causing issues.
+

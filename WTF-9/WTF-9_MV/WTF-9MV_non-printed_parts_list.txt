@@ -1,0 +1,78 @@
+WTF-9MV: Non-Printed Parts List
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Screws
+
+All sheet metal screws need to be puchased longer than needed. They will need to be cut to length and have a blunt end with no tapered point. This reduces chance of splitting plastic parts.
+
+	* [Brackets] indicate final trim length, if not specified, the faster/part is not trimmed.
+
+3 - #8 sheet metal screw --- [24mm] --- (for rear upper endcap)
+1 - #8 sheet metal screw          ---           (for mag release pivot) 
+2 - #6 sheet metal screw --- [73mm] --- (for ejector pivot)
+1 - #6 sheet metal screw --- [25mm] --- (for feed ramp) 
+1-  #6-32 machine screw --- [40mm] --- (for rear take-down pin, lower)
+
+4 - #8-32 threaded rods --- [140mm] --- (for barrel retainer)  
+	* drive rods into upper exactly 20mm
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Firearm Parts
+
+1 - Glock 17 barrel, or longer
+1 - AR-15 fire control group
+1 - AK-47 standard recoil spring --- [Cut in half]
+
+* The WTF-9 uses Glock-17 and higher capacity magazines
+	* Magpul and Glock OEM magazines will work
+	* Printed Menendez magazines may require some clearancing for a good fit
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Springs
+
+1 - 0.845" OD x 0.685" ID 0.08" WG compression spring --- [66.675mm/2.625"] --- (buffer spring)
+1 - 15/32" OD x .041" WG compression spring --- [32mm] --- (folding brace mechanism)
+1 - 7/32"  OD x .015" WG compression spring --- [17mm] --- (firing pin spring)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nuts 
+
+4 - #8-32 nuts --- (for barrel retainer)
+1 - #8-32 acorn or lock nut --- (for driving threaded rods)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Washers
+
+4 - #6 washers --- (for front endcap)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Misc.
+
+3/4" mild steel round bar --- (for lower and upper bolt dowels)
+	* lower dowel = 51.3mm length
+	* upper dowel = 206.5mm length
+	* total raw stock length = at least 265mm
+	* advised to purchase a 300mm/12" bar in case of screw-ups
+
+6mm or 1/4" steel round bar --- (for firing pin)
+	* firing pin length = 66.47mm
+	* advised to purchase a 70mm/2.75" bar in case of screw-ups
+	* advised to use drill rod and oil-harden it after machining on a lathe for best longevity
+		* drill rod can be purchased from Fastenal/McMaster-Carr/Ebay
+
+*** Optional***
+8D 2-1/4" (5.72cm) smooth shank duplex nails --- (non-machined firing pin replacement mod)
+	- More info in Machining-Welding Jigs folder, duplex_nail_mod.txt
+
+1/8" steel pin --- [25mm] --- (for firing pin retainer)
+
+1/4" brass or steel rod --- [74mm] --- (for folding mechanism)
+	* two washers and cotter pins
+
+#8-32 tap --- (for threading rods into upper) 
+	* only tap the first 8mm of the hole
+	* prepare holes with 1/8" drill bit, exactly 23mm deep, do not ream
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version Info:
+Compiled 05/19/2020

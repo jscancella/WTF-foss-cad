@@ -1,0 +1,6 @@
+Print with 4 walls. Infill 20% or more.
+after you print it you may need to sandpaper the corners, just lightly. or use a small file. it will fit just right
+the side that you start drilling from will be the side that faces the barrel,  do not reverse. there may still be small deviations from manual drilling
+
+
+Credit to v555

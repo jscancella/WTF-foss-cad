@@ -1,0 +1,34 @@
+WTF-9: Duplex Nail Firing Pin Modification
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- In order to make the assembly of the WTF-9 variants easier for people without access to machinig equipment, there is
+now an option to replace the firing pin that previously had to be machined on a lathe with a modified duplex nail.
+
+	- Refer to pictures in the Images folder of what sort of duplex nails to purchase
+
+- The specification of the duplex nail:
+	- 8D 2-1/4" (5.72cm)
+
+- These nails are made of a low carbon content steel, thus, they will not be as long-lasting as a properly machined and hardened
+firing pin. Additionally, it may be difficult to truly harden/heat-treat these nails due to the low carbon content, but case hardening
+is possible. Refer to online tutorials on case hardening for more information.
+
+	- If choosing to improve the longevity of the duplex nail firing pin by heat treating, it is important to avoid warping the nail
+	by keeping it vertical during heating and quenching operations.
+
+	- Also, wear a respirator when heating steel coated with compounds such as yellow zinc/galvanization. This process
+	can release harmful if not toxic gasses. 
+
+	- If quenching hot steel in oil, it is highly likely that a flame will flare up upon contact with the oil, so do this in a safe place
+	and have some sort of fire suppression nearby. DON'T BURN YOUR SHIT DOWN.
+
+- One user has reported over 800 rounds fired with a NON-HARDENED firing pin, so if hardening is not possible in your circumstance,
+you may be fine with skipping this process. When the firing pin begins to mushroom at the tip, simply replace the firing pin with
+another modified duplex nail.
+
+- Refer to the technical drawings and pictures on how exactly to shape the duplex nail so it functions in place of a machined firing pin.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version Info:
+Compiled: 05/19/2020
