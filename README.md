@@ -1,4 +1,4 @@
-# Weight Towards the Front (WTF) Free Open Source Models (foss cad)
+# WeighT Forward (WTF) Free Open Source Models (foss cad)
 
 ### Frequently Asked Questions (FAQ)
 #### How do I get into the DEV groups?
