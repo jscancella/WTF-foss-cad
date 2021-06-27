@@ -21,15 +21,15 @@ This repo is an attempt to collect all the files from various parts of the inter
 
 The files are organized by types and then versions and related files. Each sub folder will have a README that explains about the project and if it has been replaced by newer projects.
 
-> Example of directory structure:
->
->WTF-FOSS-CAD
->├───MOD-22
->├───MOD-9
->│   ├───Version 2
->│   └───Version 3
->├───MX-22
->└───WTF-9
+Example of directory structure:
+``` WTF-FOSS-CAD
+├───MOD-22 
+├───MOD-9 
+│   ├───Version 2 
+│   └───Version 3 
+├───MX-22 
+└───WTF-9 
+```
 
 
 ### Communication
