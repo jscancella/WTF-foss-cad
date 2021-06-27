@@ -111,6 +111,7 @@ Takes approximately 5-7 days to print all the parts.
     -Firing Pin Option #5: Purchase a firing pin from sg2020, V @ 3dprintfreedom.com, or gunder_muffin for  in the Matrix group ($15 +shipping)
 	
 ## *Non-Firearms Parts:
+```
   Note: 1. The recommended screws below are recomendations. You can use your preference of sheet metal screws, machine screws, machine cap screws, etc as alternatives.
         2. This is why this list of screws and bolts differs from the "MOD9V2_Parts_List_&_Assembly_Guide(NOV2020).pdf" and the "MOD9V2 RP9 Build" video series.
 	3. Screws sizes are measured as a number. Refer to the "Screw Size Chart" below for more details.
@@ -127,6 +128,7 @@ Takes approximately 5-7 days to print all the parts.
 	|  M6        | 5mm drill bit and M6 tap   |
 		
   - (2) 1kg 1kg spools of 1.75 diameter PLA+
+```
 
 ### Recoil Spring:
   	*Message from Derwood, "I highly recommend the longer recoil spring version (MOD9V2_Retrack_Wire_Endcap_Extendened_FINAL). The recoil is super soft. It beats out the Ruger PC Charger on recoil."
@@ -157,7 +159,7 @@ Takes approximately 5-7 days to print all the parts.
          [M3, 25mm long steel roll pin or dowel pin]
 
 ### Receiver Attachment Pins: (2) upper to lower retaining pins, (1) bottom end cap retainer pin, and (1) top end cap retainer pin
-   - (4) HK Stock Push Pins [large pin]
+   - (4) HK Stock Push Pins [small pin]
    OR
    - (4) Tippmann A5/X7 long pins
    OR
