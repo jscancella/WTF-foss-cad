@@ -1,6 +1,13 @@
 # WeighT Forward (WTF) Free Open Source Models (foss cad)
 
 ### Frequently Asked Questions (FAQ)
+
+#### Why does this group exist?
+According to Mussy, the reason this group exists is for R&D and to help each other. However, if you have little to no experience in firearms this becomes very dangerous and we do not want others to get hurt because of our designs. Please be respectful of our time and try and answer questions on your own first as it gets tiresome to answer the same questions over and over again. Or to put it another way from SG2020:
+```
+Ok, (read this with captain jack Sparrow in mind) if someone asks a question and an answerer answers the question could the asker read and apply the answerers answer. That would ensure that the answerer doesn't get frustrated by the asker and the asker doesn't think that the answerer didn't answer the askers question. 
+```
+
 #### How do I get into the DEV groups?
 This was a change from how things worked in Keybase; the DEV groups are invite-only now. If you want to get in, contribute, design something cool and share it here, and someone will invite you to join. If it helps, they’re usually quiet for weeks at a time, so you’re not missing as much as you think.
 
