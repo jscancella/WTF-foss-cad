@@ -106,7 +106,7 @@ Assembly Notes(abridged):
 
 Operation Instructions(abridged):
   This lathe operates under the same principleas a normal lathe, but uses a different setup and tools to reach the same end goal.
-  Watch videos on how lathes work to get a general idea of how to adpat how that translates to this.
+  Watch videos on how lathes work to get a general idea of how to adpat how that translates to this (like https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN).
   
   To use this lathe, insert rod in between bearings, mark cutting area with marker,
   (cont.) gently move angle grinder blade across the intended cutting area back and forth a couple passes, then measure and then mark cutting area again,
