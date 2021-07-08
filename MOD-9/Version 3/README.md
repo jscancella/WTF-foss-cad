@@ -1,10 +1,7 @@
 # MOD-9 Version 3
 
 ## Main changes from version 2
-* Extractor
-* OpenSCAD customizer for easy customization and orientation layout
-* Longer lower
-* Barrel retainer is designed to be printed without supports 
+![](MOD9 X Destruction.jpg?raw=true)
 
 ### Frequently Asked Questions (FAQ)
 #### What spring do I need?
