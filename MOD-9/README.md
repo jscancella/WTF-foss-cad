@@ -1,4 +1,7 @@
 # Mod-9 semi-auto pistol
+### Fequently Asked Questions (FAQ)
+#### Can I use X from version 2 in version 3(i.e. interchangeable parts between versions)?
+The only items that you can use between version 2 and 3 are the magwells. For everything else, the answer is the parts are NOT interchangeable.
 
 ### Which version should I choose?
 #### [Version 2](Version%202)
