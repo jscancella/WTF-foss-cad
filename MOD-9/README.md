@@ -1,4 +1,7 @@
 # Mod-9 semi-auto pistol
+### Fequently Asked Questions (FAQ)
+#### are the parts interchangeable between versions?
+No. There are subtle changes between versions. So they may "fit" but they can cause it malfunction. If you are mixing different version parts together, you are on your own.
 
 ### Which version should I choose?
 #### [Version 2](Version%202)
