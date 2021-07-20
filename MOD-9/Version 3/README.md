@@ -1,7 +1,7 @@
 # MOD-9 Version 3
 
 ## Main changes from version 2
-![](MOD9 X Destruction.jpg?raw=true)
+![](MOD9_X_Destruction.jpg?raw=true)
 
 ### Frequently Asked Questions (FAQ)
 #### What spring do I need?
