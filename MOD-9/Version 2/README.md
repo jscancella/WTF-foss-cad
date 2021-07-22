@@ -152,9 +152,9 @@ Takes approximately 5-7 days to print all the parts.
          [M4, 20mm long screw]
 
 ### Firing Pin Parts:
-   - (1) 7/32in OD x .015in WG compression spring (firing pin spring)
+   - (1) 7/32in OD x .032in WG compression spring (firing pin spring)
          [5mm OD, 20mm long compression spring]
-     Note: Cut length to 17mm for optimal results.
+     Note: Cut length to 17mm for optimal results(10 coils).
    - (1) 1/8in dia, 1in long steel roll or dowel pin (firing pin retaining pin)
          [M3, 25mm long steel roll pin or dowel pin]
 
