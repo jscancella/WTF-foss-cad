@@ -11,6 +11,10 @@ https://www.ebay.com/itm/Length-300mm-Compression-Spring-Pressure-Springs-OD-2-3
 #### Where is the instruction guide?
 The instruction guide is still being created. In the mean time you may follow the [Version 2 assembly guide](https://github.com/jscancella/WTF-foss-cad/blob/master/MOD-9/Version%202/MOD9V2-Intstructions_%26_Guides/MOD9V1_Assembly_Suggestions_07.22.2020.pdf) and common logic for what has changed.
 
-#### What do I do for the extractor
+#### What do I do for the extractor?
 Many things have been tried but what seems to work the best is either a big bobble pin or windshield wiper spring bent in a gentle 90 degrees.
-An example is ![](extractor_example.jpg?raw=true)
+An example is: 
+![](extractor_example.jpg?raw=true)
+
+#### Can I use a glock 19 barrel?
+The Glock 19 Gen 3 uses different lugs than the Gen 3 Glock 17. The Gen 5 Glock 19 and 17 use the same lugs so you can use the v3 Customizer with the Gen 5 option to have a proper recess for the Glock 19.
