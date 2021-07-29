@@ -16,6 +16,16 @@ Abide by all local/federal laws and regulations before building the MOD9V2.
 You are liable for any damage or injury to yourself, others, and/or any property that may result if you choose to build this firearm.
 You are liable for any violations of law and/or any legal issues that may arise due to the construction of this firearm.
 
+## Main differences from MOD9 version 1
+* mag angle is different. 3 degrees counter clockwise to assist in feeding
+* upper has cutouts for a retractable stock and alignment lugs
+* retrackable wire stock, and new alignment rods (new endcap made for this)
+* lower bolt and firing pin shortened by 5mm(both receivers, bolt carrier, ejector mount, and ejector have been shortened accordingly)
+* bolt carrier spring hole has been moved. it was offset slightly
+* it can accept the Walther p38 firing pin now (make firing pin hole bigger or modify firing pin to fit the spec)
+* firing pin exit hole made smaller to stop over penetration of primer and primer blowout
+* Ejector moved forward 4mm
+
 ## ** License: **
 All these files and guides are released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 To learn what that license means, read: https://creativecommons.org/licenses/by-nc-sa/4.0/
