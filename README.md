@@ -3,7 +3,7 @@
 ### Frequently Asked Questions (FAQ)
 
 #### Why does this group exist?
-According to Mussy, the reason this group exists is for R&D and to help each other. However, if you have little to no experience in firearms this becomes very dangerous and we do not want others to get hurt because of our designs. Please be respectful of our time and try and answer questions on your own first as it gets tiresome to answer the same questions over and over again. Or to put it another way from SG2020:
+According to Mussy, the reason this group exists is for R&D and to help each other. We DO NOT support anything illegal, it is assumed that wher eyou live it is legal to create your own firearm for personal use. However, if you have little to no experience in firearms this becomes very dangerous and we do not want others to get hurt because of our designs. Please be respectful of our time and try and answer questions on your own first as it gets tiresome to answer the same questions over and over again. Or to put it another way from SG2020:
 ```
 Ok, (read this with captain jack Sparrow in mind) if someone asks a question and an answerer answers the question could the asker read and apply the answerers answer. That would ensure that the answerer doesn't get frustrated by the asker and the asker doesn't think that the answerer didn't answer the askers question. 
 ```
