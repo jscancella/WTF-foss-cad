@@ -11,6 +11,8 @@ We have several parts, files, and additional documentation planned to add to thi
 Videos are offically hosted at https://odysee.com/@WFGCIVideos:f
 Offical backup is at https://lbry.tv/@WFGCIVideos:f
 
+![](mod%209%20cutaway.jpg?raw=true)
+
 ## ** DISCLAIMER: **
 Abide by all local/federal laws and regulations before building the MOD9V2.
 You are liable for any damage or injury to yourself, others, and/or any property that may result if you choose to build this firearm.
