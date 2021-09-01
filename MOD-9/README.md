@@ -17,3 +17,7 @@ A 6-32 threaded rod with a nut. The nut has been ground down round and loctite u
 #### History
 Here is a diagram about the general history of the mod-9 firearms
 ![](history.png?raw=true)
+
+#### Which endcap do I need?
+You should use the updated endcaps. How do I tell? See the difference below:
+![](different_endcap_versions.jpg?raw=true)
