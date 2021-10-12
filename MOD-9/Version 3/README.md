@@ -8,6 +8,7 @@
 ##### Main spring
 1.4 mm wire, 12mm outside Diameter (OD), cut to no shorter than 7.5 inches(190.5mm). Start at 8 inches (203.2mm) and adjust as needed. This is the only spring that is needed. If you are following guides that talk about an RC shock, they are old and that should be ignored. This spring powers the charging handle as well as returning the bolt.
 https://www.ebay.com/itm/Length-300mm-Compression-Spring-Pressure-Springs-OD-2-35mm-Wire-Dia-0-3mm-2-0mm/223579723393 is the specific spring that was tested. While others may work there are many factors that go into determining if a spring will work correctly (spring rate). If you are unsure, ask on the chat (Memphistopheles is the resident expert).
+
 ##### Firing pin spring
 The mod-9 version 3 doesn't use a firing pin spring and is instead a floating firing pin
 

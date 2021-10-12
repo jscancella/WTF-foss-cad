@@ -146,9 +146,9 @@ Takes approximately 5-7 days to print all the parts.
   	*Message from Derwood, "I highly recommend the longer recoil spring version (MOD9V2_Retrack_Wire_Endcap_Extendened_FINAL). The recoil is super soft. It beats out the Ruger PC Charger on recoil."
    Recoil spring for "MOD9V2_Extended_Endcap" and "MOD9V2_Retrack_Wire_Endcap_Extendened_FINAL_27_MAR_2021".
     - These endcaps do NOT use a secondary buffer spring or hydraulic buffer. Only install the recoil spring.
-	(1) Compression Spring: 1.4mm WD x 12mm OD x 300mm long; cut spring length between 9.5in[241mm] to 8.5in[203mm] long.
+	(1) Compression Spring: 1.4mm WD x 12mm OD x 300mm long (from ebay); cut spring length between 9.5in[241mm] to 8.5in[203mm] long.
 	    Note: If bolt does not go all the way back when function checking, trim the recoil spring by 0.5in[13mm], and then try function testing again.
-        ALTERNATIVE, Compression Spring [McMaster part# 9637K83]
+        ~~ALTERNATIVE, Compression Spring [McMaster part# 9637K83]~~ This should no longer be used. The McMaster spring is significantly weaker than the eBay spring when it starts, but the eBay spring needs to be cycled until it settles so it loses a little strength. Overall, the McMaster spring is something like 15-20% weaker than the eBay one which is enough to cause problems with printed frames either immediately or earlier than the other option
    OR
    Recoil spring for "MOD9V2_Scorpion_Endcap(2ndary spring)_byIMA"
 	- This endcap DOES use a secondary buffer spring. Refer to the "CZ Scorpion OEM or Skeleton Brace Endcap & Parts" for parts recomendations.
