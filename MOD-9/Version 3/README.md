@@ -17,8 +17,11 @@ The instruction guide is still being created. In the mean time you may follow th
 
 #### What do I do for the extractor?
 Many things have been tried but what seems to work the best is either a big bobble pin or windshield wiper spring bent in a gentle 90 degrees.
-An example is: 
+Others have bent it more in a v or 7 shape which also seems to work well.
+
+##### Examples:
 ![](extractor_example.jpg?raw=true)
+![](extractor_example2.jpg?raw=true)
 
 #### Can I use a glock 19 barrel?
 The Glock 19 Gen 3 uses different lugs than the Gen 3 Glock 17. The Gen 5 Glock 19 and 17 use the same lugs so you can use the v3 Customizer with the Gen 5 option to have a proper recess for the Glock 19.
